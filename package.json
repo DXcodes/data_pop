@@ -1,0 +1,19 @@
+{
+  "name": "data_pop",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A self-referencing data sourcing solution.",
+  "main": "src/index.js",
+  "scripts": {
+    "job": "node src/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/DXcodes/data_pop"
+  },
+  "author": "DXcodes",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
